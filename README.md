@@ -18,6 +18,6 @@ I am **Gabriel**, a devoted student of Software Engineering, presently crafting 
 - ✍️ **Poet by Inspiration** – I write not to impress, but to express.
 - 📚 **Ever the Student** – Reading, reflection, and refinement are my daily devotions.
 
-> *"I am not yet what I shall be. But here, line by line, commit by commit, I build him."*
+*"I am not yet what I shall be. But here, line by line, commit by commit, I build him."*
 
 📫 Feel free to connect or collaborate. I welcome the company of fellow builders, artists, and seekers.
